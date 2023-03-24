@@ -2,7 +2,7 @@ Neste projeto deverá criar uma aplicação web que permita o gerenciamento de a
 
     a) A aplicação deverá ser feita utilizando o laravel.
 
-    b) A aplicação deverá conter todas as funcionalidades para cadastrar, editar ou remover um album.
+    b) A aplicação deverá conter todas as funcionalidades para cadastrar, editar ou remover um album. (Um álbum deve conter o nome do álbum, o nome do artista e uma foto do álbum.)
 
     c) O usuário deverá utilizar o bootstrap.
 
